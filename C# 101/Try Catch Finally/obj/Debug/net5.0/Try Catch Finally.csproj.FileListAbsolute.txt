@@ -1,0 +1,16 @@
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\bin\Debug\net5.0\Try Catch Finally.exe
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\bin\Debug\net5.0\Try Catch Finally.deps.json
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\bin\Debug\net5.0\Try Catch Finally.runtimeconfig.json
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\bin\Debug\net5.0\Try Catch Finally.runtimeconfig.dev.json
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\bin\Debug\net5.0\Try Catch Finally.dll
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\bin\Debug\net5.0\ref\Try Catch Finally.dll
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\bin\Debug\net5.0\Try Catch Finally.pdb
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\obj\Debug\net5.0\Try Catch Finally.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\obj\Debug\net5.0\Try Catch Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\obj\Debug\net5.0\Try Catch Finally.AssemblyInfoInputs.cache
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\obj\Debug\net5.0\Try Catch Finally.AssemblyInfo.cs
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\obj\Debug\net5.0\Try Catch Finally.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\obj\Debug\net5.0\Try Catch Finally.dll
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\obj\Debug\net5.0\ref\Try Catch Finally.dll
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\obj\Debug\net5.0\Try Catch Finally.pdb
+C:\Users\murat\source\repos\Patika.dev\Try Catch Finally\obj\Debug\net5.0\Try Catch Finally.genruntimeconfig.cache
